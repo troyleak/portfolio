@@ -1,0 +1,6 @@
+[project]
+name = Troy Leak
+
+
+[servers.ghpages]
+target = ghpages+https://troyleak/troyleak.github.io
