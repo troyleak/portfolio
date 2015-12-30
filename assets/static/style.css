@@ -4,11 +4,11 @@ body {
 }
 
 a {
-    color: #2a99b6;
+    color: #b6542a;
 }
 
 a:hover {
-    color: #33bbdf;
+    color: #dfc933;
 }
 
 header, footer, div.page {
@@ -19,7 +19,7 @@ header, footer, div.page {
 }
 
 header h1 {
-    color: #169bbd;
+    color: #bd4d16;
     margin: 0;
     font-weight: normal;
     font-size: 42px;
