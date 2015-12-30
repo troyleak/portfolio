@@ -2,6 +2,6 @@ title: #! /bin/portfolio
 ---
 body:
 
-This site is for showcasing my current work. As I work on new projects, this will be updated to reflect my ability. Old projects may be taken down over time - to check those out visit my github at http://troyleak.github.com
+This site is for showcasing my current work. As I work on new projects, this will be updated to reflect my ability. Old projects may be taken down over time - to check those out visit [my github](http://troyleak.github.com)
 
 This site is built with [Lektor](https://www.getlektor.com/) and hosted on [Github Pages](https://pages.github.com/)
