@@ -1,5 +1,5 @@
 [project]
-name = Troy's Portfolio
+name = #! /usr/bin/troyleak
 
 [servers.ghpages]
 target = ghpages+https://troyleak/Portfolio
