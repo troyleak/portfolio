@@ -1,5 +1,0 @@
-[project]
-name = troyleak.github.io
-
-[servers.ghpages]
-target = ghpages+https://troyleak/troyleak.github.io
